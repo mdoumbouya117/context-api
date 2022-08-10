@@ -1,0 +1,13 @@
+.pagination-list {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  
+    li {
+      margin: 5px;
+      padding: 4px;
+      border: 1px solid;
+      min-width: 30px;
+      cursor: pointer;
+    }
+  }

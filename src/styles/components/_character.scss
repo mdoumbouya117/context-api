@@ -1,0 +1,11 @@
+.character-list {
+    max-height: 80vh;
+    overflow: auto;
+    max-width: 400px;
+  
+    li {
+      border: 1px solid;
+      margin: 8px;
+      min-height: 110px;
+    }
+  }
